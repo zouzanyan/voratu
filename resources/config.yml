@@ -1,0 +1,5 @@
+app:
+  binance:
+    api_key:
+    api_secret:
+    base_url: https://api.binance.com
